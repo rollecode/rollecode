@@ -21,7 +21,7 @@ I created my first website when I was about ten years old (around 1998), and I'v
 
 ### Ways to support what I do
 
-- [Become a GitHub Sponsor](https://github.com/sponsors/ronilaukkarinen)
+- [Become a GitHub Sponsor](https://github.com/sponsors/rollecode)
 - [Ko-fi](https://ko-fi.com/rolle)
 - [Buy me a coffee](https://www.buymeacoffee.com/Fd140aV)
 - [Buy my music on Bandcamp](https://streetgazer.bandcamp.com/music)
