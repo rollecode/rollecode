@@ -13,7 +13,7 @@ I created my first website when I was about ten years old (around 1998), and I'v
 
 > **OS**: Arch Linux, macOS<br>
 > **Browser on Arch:** [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) for ultra privacy<br>
-> **Browser on a Mac:** [brave-origin-nightly](https://brave.com/origin/download-nightly)<br>
+> **Browser on a Mac:** [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) for ultra privacy, [brave-origin-nightly](https://brave.com/origin/download-nightly) as backup and DRM content<br>
 > **Editor:** [neovim](https://github.com/neovim/neovim) ([nvim nano fork](https://github.com/rollecode/dotfiles/tree/master/nvim))<br>
 > **Top programming languages:** Shell scripting, SCSS, PHP<br>
 > **Path:** Servers → Front end → Design → APIs & Databases → Back end → AI → Repeat
